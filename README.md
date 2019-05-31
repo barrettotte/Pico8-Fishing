@@ -9,6 +9,12 @@ This was going to be a basic fishing game, but I don't really want to keep worki
 * Nothing else really :,)
 
 
+[![water](https://github.com/barrettotte/Pico8-Fishing/blob/master/screenshots/screenshot01.png)](https://github.com/barrettotte/Pico8-Fishing/blob/master/screenshots/screenshot01.png)
+
+
+[![tree](https://github.com/barrettotte/Pico8-Fishing/blob/master/screenshots/Screenshot%20from%202019-05-31%2019-18-40.png)](https://github.com/barrettotte/Pico8-Fishing/blob/master/screenshots/Screenshot%20from%202019-05-31%2019-18-40.png)
+
+
 ## Building/reloading cartridge options
 * My simple build script ```build.sh mycart/mydir/myfile```
 * PICO8 Shell ```LOAD mycart/mydir/myfile```
